@@ -1,5 +1,8 @@
 # StuHDySpaces
 
+
+## Video of final product
+[Project Showcase](https://youtu.be/hCvR7qp7Q0M)
 ## Final Product
 **Register Page**
 ![register-page](./final-product-images/register-page.png)
