@@ -1,5 +1,8 @@
 # StuHDySpaces
 
+## Final Product
+![register-page](./final-product-images/register-page.png)
+
 ## Steps
 
 1. Clone the repo.
