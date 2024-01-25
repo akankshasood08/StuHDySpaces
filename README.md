@@ -1,7 +1,27 @@
 # StuHDySpaces
 
 ## Final Product
+**Register Page**
 ![register-page](./final-product-images/register-page.png)
+
+**Login Page**
+![register-page](./final-product-images/login.png)
+
+**Catalogue Page**
+![register-page](./final-product-images/catalogue-page.png)
+
+**Space page before adding review**
+![register-page](./final-product-images/review-page-before.png)
+
+**Add Review Page**
+![register-page](./final-product-images/add-review.png)
+
+**Space page after adding review**
+![register-page](./final-product-images/review-page-after.png)
+
+**Unsuccessful Search**
+![register-page](./final-product-images/search-unsuccessful.png)
+
 
 ## Steps
 
